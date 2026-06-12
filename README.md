@@ -69,7 +69,11 @@ Through this project, I learned how to process user input, maintain application 
 
 This project successfully demonstrates the implementation of an Expense Tracker using Python. It provides practical experience in handling user input, performing calculations, and developing logical problem-solving skills that are essential for backend software development.
 
+Developed as part of the DecodeLabs Industrial Training Program.
+
 ##Author:
 Miryala Ankitha
-Developed as part of the DecodeLabs Industrial Training Program.
+
+
+
 
